@@ -1,8 +1,9 @@
-# chattingRobot_201807
-V1.0.0 åŸºäºŽç®€å•æ£€ç´¢çš„é—®ç­”åº“
+V1.0.0 »ùÓÚ¼òµ¥¼ìË÷µÄÎÊ´ð¿â
 
-é—®å¥ç›¸ä¼¼åº¦ä½¿ç”¨äº†ðŸ‘‡è¿™ä¸ªåšå®¢çš„éƒ¨åˆ†ä»£ç å’Œæä¾›çš„word2vecæ¨¡åž‹
+»·¾³£ºpython3
+
+ÐèÒªµÄ¿â£ºgensim¡¢jieba¡¢numpy¡¢word2vec
+
+ÎÊ¾äÏàËÆ¶ÈÊ¹ÓÃÁË?Õâ¸ö²©¿ÍµÄ²¿·Ö´úÂëºÍÌá¹©µÄword2vecÄ£ÐÍ
 
 https://cuiqingcai.com/6101.html
-
-ddè´¦å·æµ‹è¯•
