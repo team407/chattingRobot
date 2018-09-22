@@ -43,4 +43,3 @@ def output(input_seq):
     f1.close()
     f2.close()
     return answer_list[index]
-# 测试
