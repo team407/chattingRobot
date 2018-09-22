@@ -6,7 +6,6 @@ from scipy.linalg import norm
 model_file = 'news_12g_baidubaike_20g_novel_90g_embedding_64.bin'
 model = gensim.models.KeyedVectors.load_word2vec_format(model_file, binary=True)
 
-
 def vector_similarity(s1, s2):
     def sentence_vector(s):
         words = jieba.lcut(s)
@@ -44,3 +43,4 @@ def output(input_seq):
     f1.close()
     f2.close()
     return answer_list[index]
+# 测试
