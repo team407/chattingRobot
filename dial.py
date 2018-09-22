@@ -5,6 +5,8 @@ def quit(signum, frame):
     print ()
     print ("stop communication")
     sys.exit()
+
+   
     
 def dial():
     signal.signal(signal.SIGINT, quit)
@@ -17,3 +19,7 @@ def dial():
         print(output_seq)
 
 dial()
+
+
+
+
